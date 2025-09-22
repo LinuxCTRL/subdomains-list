@@ -1,0 +1,10 @@
+www.dell.com
+support.dell.com
+shop.dell.com
+community.dell.com
+partner.dell.com
+developer.dell.com
+emc.dell.com
+technologies.dell.com
+services.dell.com
+enterprise.dell.com
