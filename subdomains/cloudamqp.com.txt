@@ -1,0 +1,5 @@
+www.cloudamqp.com
+api.cloudamqp.com
+mail.cloudamqp.com
+blog.cloudamqp.com
+shop.cloudamqp.com
